@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"CowPlayer","order":1,"path":"folders/Sprites/CowPlayer.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Cow_2amazed","order":1,"path":"sprites/Cow_2amazed/Cow_2amazed.yy",},
+    {"name":"Cow_3eat","order":2,"path":"sprites/Cow_3eat/Cow_3eat.yy",},
+  ],
+}
